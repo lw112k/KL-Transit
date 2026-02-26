@@ -94,8 +94,8 @@ function StationSearchInput({ options, value, onChange, placeholder }: any) {
 }
 
 export default function KLTransitApp() {
-  const [origin, setOrigin] = useState("bukit_jalil");
-  const [destination, setDestination] = useState("pasar_seni_lrt");
+  const [origin, setOrigin] = useState("");
+  const [destination, setDestination] = useState("");
   const [routes, setRoutes] = useState<any[]>([]);
   const [sortBy, setSortBy] = useState<"fastest" | "least_transfers">("fastest");
   
