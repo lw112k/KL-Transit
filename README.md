@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+To view the website go to [https://kl-transit.vercel.app](https://kl-transit.vercel.app) 
 
 ## Getting Started
 
